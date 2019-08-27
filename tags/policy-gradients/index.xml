@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy Gradients on Sriharsha</title>
+    <link>sriharshavenugopal.github.io/tags/policy-gradients/</link>
+    <description>Recent content in Policy Gradients on Sriharsha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="sriharshavenugopal.github.io/tags/policy-gradients/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Block Drop: Dynamic Inference Paths in Residual Networks</title>
+      <link>sriharshavenugopal.github.io/talk/example/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

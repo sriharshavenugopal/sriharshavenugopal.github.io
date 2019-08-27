@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Compression on Sriharsha</title>
+    <link>sriharshavenugopal.github.io/tags/video-compression/</link>
+    <description>Recent content in Video Compression on Sriharsha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="sriharshavenugopal.github.io/tags/video-compression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clockwork FCN</title>
+      <link>sriharshavenugopal.github.io/talk/clockwork/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/clockwork/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Sriharsha</title>
+    <link>sriharshavenugopal.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Sriharsha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 22 Nov 2018 23:43:31 +0530</lastBuildDate>
+    
+	<atom:link href="sriharshavenugopal.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Behavioral Cloning</title>
+      <link>sriharshavenugopal.github.io/project/cloning/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/project/cloning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lane Line Detection</title>
+      <link>sriharshavenugopal.github.io/project/lane/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/project/lane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Recognition</title>
+      <link>sriharshavenugopal.github.io/project/traffic/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/project/traffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vehicle Detection</title>
+      <link>sriharshavenugopal.github.io/project/vehicle/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/project/vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clockwork FCN</title>
+      <link>sriharshavenugopal.github.io/talk/clockwork/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/clockwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Intrinsic Dimension of Objective Landscapes</title>
+      <link>sriharshavenugopal.github.io/talk/intrinsic/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/intrinsic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Reweight Examples for Robust Deep Learning</title>
+      <link>sriharshavenugopal.github.io/talk/reweight/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/reweight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Semantic Segmentation</title>
+      <link>sriharshavenugopal.github.io/talk/semantic/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block Drop: Dynamic Inference Paths in Residual Networks</title>
+      <link>sriharshavenugopal.github.io/talk/example/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Densely Connected Neural Networks</title>
+      <link>sriharshavenugopal.github.io/talk/dense/dense/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/dense/dense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Semantic Segmentation using Gradual Grouping</title>
+      <link>sriharshavenugopal.github.io/talk/symposium/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/talk/symposium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

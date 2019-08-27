@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Sriharsha</title>
+    <link>sriharshavenugopal.github.io/publication/</link>
+    <description>Recent content in Publications on Sriharsha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="sriharshavenugopal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient Semantic Segmentation using Gradual Grouping (oral) (Best paper Runner up Award)</title>
+      <link>sriharshavenugopal.github.io/publication/efficient-semantic-segmentation-using-gradual-grouping/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/publication/efficient-semantic-segmentation-using-gradual-grouping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Antenna Deployment Circuit for Nano-Satellites </title>
+      <link>sriharshavenugopal.github.io/publication/antenna/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/publication/antenna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
