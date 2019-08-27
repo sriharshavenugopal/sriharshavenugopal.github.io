@@ -29,7 +29,7 @@ abstract_short = "We further propose a novel training procedure which starts out
 # Featured image thumbnail (optional)
 image_preview = "1.png"
 
-# Is this a selected publication? (true/false)
+# Is this a selected publication? 
 selected = true
 
 # Projects (optional).
