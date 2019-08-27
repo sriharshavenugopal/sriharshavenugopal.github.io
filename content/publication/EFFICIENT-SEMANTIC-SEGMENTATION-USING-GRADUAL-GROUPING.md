@@ -1,5 +1,5 @@
 +++
-title = "Efficient Sematic Segmentation using Gradual Grouping"
+title = "Efficient Semantic Segmentation using Gradual Grouping"
 
 # Date first published.
 date = "2018-07-01"
