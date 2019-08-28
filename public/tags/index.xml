@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sriharsha</title>
+    <link>sriharshavenugopal.github.io/tags/</link>
+    <description>Recent content in Tags on Sriharsha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="sriharshavenugopal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>sriharshavenugopal.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Navigation</title>
+      <link>sriharshavenugopal.github.io/tags/autonomous-navigation/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/autonomous-navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>sriharshavenugopal.github.io/tags/computer-vision/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks</title>
+      <link>sriharshavenugopal.github.io/tags/convolutional-neural-networks/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>sriharshavenugopal.github.io/tags/deep-learning/</link>
+      <pubDate>Thu, 22 Nov 2018 23:43:31 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overfitting</title>
+      <link>sriharshavenugopal.github.io/tags/overfitting/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/overfitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Gradients</title>
+      <link>sriharshavenugopal.github.io/tags/policy-gradients/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/policy-gradients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation</title>
+      <link>sriharshavenugopal.github.io/tags/semantic-segmentation/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/semantic-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Learning</title>
+      <link>sriharshavenugopal.github.io/tags/supervised-learning/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Compression</title>
+      <link>sriharshavenugopal.github.io/tags/video-compression/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/video-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>training</title>
+      <link>sriharshavenugopal.github.io/tags/training/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0530</pubDate>
+      
+      <guid>sriharshavenugopal.github.io/tags/training/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
